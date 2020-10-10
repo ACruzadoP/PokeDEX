@@ -9,5 +9,3 @@ npm install bootstrap
 npm install styled-components
 npm install axios
 npm install react-router-dom
-
-With that said, I will create my own PokeDEX afterwards, something a lot easier as this one is extremely complex and I don't see myself creating something so difficult just for fun.
